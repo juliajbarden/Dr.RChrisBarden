@@ -285,6 +285,17 @@ a:hover {
   background: #eaecf0;
 }
 
+/* Sources list */
+.sources-list {
+  padding-left: 24px;
+  font-size: 13px;
+  line-height: 2;
+}
+.sources-list li {
+  margin-bottom: 2px;
+  word-break: break-word;
+}
+
 /* ---- Footer ---- */
 #footer {
   max-width: 1200px;
